@@ -7,6 +7,7 @@
       ]
     }
   ],
+  "neoforge:conditions":[{"type":"neoforge:mod_loaded","modid":"lolmct"}],
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "##",
@@ -18,6 +19,6 @@
     }
   },
   "result": {
-    "id": "lolmct:jungle_crafting_table",
+    "id": "lolmct:jungle_crafting_table"
   }
 }
