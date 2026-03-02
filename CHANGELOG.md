@@ -1,3 +1,3 @@
-<!--publish=false-->
-# 1.0.0
-- Initial release
+<!--publish=true-->
+# 0.9.0
+- First pre-release
