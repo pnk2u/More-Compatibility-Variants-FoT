@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded" ,
+      "values": [
+        "mstv-mweaponv", "mstv-base"
+      ]
+    }
+  ],
+  "category": "equipment",
+  "group": "jungle_swords",
+  "key": {
+    "#": {
+      "tag": "mstv-base:sticks"
+    },
+    "X": {
+      "tag": "morecompvars_fot:planks"
+    }
+  },
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mstv-mweaponv:jungle_sword"
+  }
+}

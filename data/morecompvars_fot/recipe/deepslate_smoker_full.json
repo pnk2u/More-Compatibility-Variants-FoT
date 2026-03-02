@@ -1,0 +1,32 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "quad-lolmsmv"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "morecompvars_fot:logs"
+    },
+    "X": {
+      "item": "minecraft:furnace"
+    },
+    "D": {
+      "item": "minecraft:deepslate"
+    }
+  },
+  "pattern": [
+    "D#D",
+    "#X#",
+    "D#D"
+  ],
+  "result": {
+    "count": 1,
+    "id": "quad-lolmsmv:jungle_deepslate_smoker"
+  }
+}

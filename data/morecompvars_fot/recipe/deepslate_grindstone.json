@@ -1,0 +1,46 @@
+{
+  "fabric:load_conditions": [
+  {
+	"condition": "fabric:and",
+	"values": [
+		{
+		  "condition": "fabric:all_mods_loaded",
+		  "values": [
+			"lolmgv"
+		  ]
+		},
+		{
+		  "condition": "fabric:not",
+		  "value": {
+						"condition": "fabric:all_mods_loaded",
+						"values": [
+						"mstv-base"
+						]
+					}
+		}
+	]
+  }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "deepslate_grindstones",
+  "key": {
+    "-": {
+      "tag": "lolmgv:deepslate_grindstone_ingredients"
+    },
+    "P": {
+      "tag": "morecompvars_fot:planks"
+    },
+    "|": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "|-|",
+    "P P"
+  ],
+  "result": {
+    "count": 1,
+    "id": "lolmgv:jungle_deepslate_grindstone"
+  }
+}
