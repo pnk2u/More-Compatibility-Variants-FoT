@@ -3,30 +3,24 @@
     {
       "condition": "fabric:all_mods_loaded",
       "values": [
-        "nemos-campfires", "mstv-base"
+        "nemos-campfires",
+        "mstv-base"
       ]
     }
   ],
+  "neoforge:conditions": [{"type":"neoforge:and","values":[{"type":"neoforge:mod_loaded","modid":"nemos_campfires"},{"type":"neoforge:mod_loaded","modid":"mstv_base"}]}],
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "group": "campfires",
   "key": {
-    "C": {
-      "tag": "minecraft:coals"
-    },
-    "L": {
-      "tag": "morecompvars_fot:logs"
-    },
-    "S": {
-		"tag": "mstv-base:sticks"
-    }
+    "C": {"tag":"minecraft:coals"},
+    "L": {"tag":"morecompvars_fot:logs"},
+    "S": {"tag":"mstv-base:sticks"}
   },
   "pattern": [
     " S ",
     "SCS",
     "LLL"
   ],
-  "result": {
-    "id": "nemos-campfires:jungle_campfire"
-  }
+  "result": {"id":"nemos-campfires:jungle_campfire"}
 }

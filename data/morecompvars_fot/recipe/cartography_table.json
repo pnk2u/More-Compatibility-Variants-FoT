@@ -2,20 +2,15 @@
   "fabric:load_conditions": [
     {
       "condition": "fabric:all_mods_loaded",
-      "values": [
-        "lolmcgt"
-      ]
+      "values": ["lolmcgt"]
     }
   ],
+  "neoforge:conditions": [{"type":"neoforge:mod_loaded","modid":"lolmcgt"}],
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "morecompvars_fot:planks"
-    },
-    "@": {
-      "item": "minecraft:paper"
-    }
+    "#": {"tag":"morecompvars_fot:planks"},
+    "@": {"item":"minecraft:paper"}
   },
   "pattern": [
     "@@",

@@ -2,20 +2,15 @@
   "fabric:load_conditions": [
     {
       "condition": "fabric:all_mods_loaded",
-      "values": [
-        "lolmlmv"
-      ]
+      "values": ["lolmlmv"]
     }
   ],
+  "neoforge:conditions": [{"type":"neoforge:mod_loaded","modid":"lolmlmv"}],
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "morecompvars_fot:planks"
-    },
-    "@": {
-      "item": "minecraft:string"
-    }
+    "#": {"tag":"morecompvars_fot:planks"},
+    "@": {"item":"minecraft:string"}
   },
   "pattern": [
     "@@",

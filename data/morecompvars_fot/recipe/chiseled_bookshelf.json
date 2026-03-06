@@ -2,27 +2,22 @@
   "fabric:load_conditions": [
     {
       "condition": "fabric:all_mods_loaded",
-      "values": [
-        "lolmcbv"
-      ]
+      "values": ["lolmcbv"]
     }
   ],
+  "neoforge:conditions": [{"type":"neoforge:mod_loaded","modid":"lolmcbv"}],
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "group": "chiseled_bookshelves",
   "key": {
-    "#": {
-      "tag": "morecompvars_fot:planks"
-    },
-     "-": {
-       "tag": "morecompvars_fot:slabs"
-     }
-        },
-   "pattern":  [
-  "###",
-  "---",
-  "###"
- ],
+    "#": {"tag":"morecompvars_fot:planks"},
+    "-": {"tag":"morecompvars_fot:slabs"}
+  },
+  "pattern": [
+    "###",
+    "---",
+    "###"
+  ],
   "result": {
     "count": 1,
     "id": "lolmcbv:jungle_chiseled_bookshelf"

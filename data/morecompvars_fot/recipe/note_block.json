@@ -2,28 +2,21 @@
   "fabric:load_conditions": [
     {
       "condition": "fabric:all_mods_loaded",
-      "values": [
-        "quad-lolmjnv"
-      ]
+      "values": ["quad-lolmjnv"]
     }
   ],
+  "neoforge:conditions": [{"type":"neoforge:mod_loaded","modid":"quad_lolmjnv"}],
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "group": "note_block",
   "key": {
-    "+": {
-      "item": "minecraft:redstone"
-    },
-    "P": {
-      "tag": "morecompvars_fot:planks"
-    }
+    "+": {"item":"minecraft:redstone"},
+    "P": {"tag":"morecompvars_fot:planks"}
   },
   "pattern": [
     "PPP",
     "P+P",
     "PPP"
   ],
-  "result": {
-    "id": "quad-lolmjnv:jungle_note_block"
-  }
+  "result": {"id":"quad-lolmjnv:jungle_note_block"}
 }

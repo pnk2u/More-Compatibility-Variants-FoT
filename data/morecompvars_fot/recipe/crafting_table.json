@@ -2,22 +2,15 @@
   "fabric:load_conditions": [
     {
       "condition": "fabric:all_mods_loaded",
-      "values": [
-        "lolmct"
-      ]
+      "values": ["lolmct"]
     }
   ],
+  "neoforge:conditions": [{"type":"neoforge:mod_loaded","modid":"lolmct"}],
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "##",
     "##"
   ],
-  "key": {
-    "#": {
-      "tag": "morecompvars_fot:planks"
-    }
-  },
-  "result": {
-    "id": "lolmct:jungle_crafting_table",
-  }
+  "key": {"#":{"tag":"morecompvars_fot:planks"}},
+  "result": {"id":"lolmct:jungle_crafting_table"}
 }
