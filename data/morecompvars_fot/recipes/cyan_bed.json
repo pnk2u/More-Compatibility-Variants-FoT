@@ -1,0 +1,21 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["quad-lolmbdv"]
+    }
+  ],
+  "neoforge:conditions": [{"type":"neoforge:mod_loaded","modid":"quad_lolmbdv"}],
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "bed_from_planks",
+  "key": {
+    "W": {"item":"minecraft:cyan_wool"},
+    "_": {"tag":"morecompvars_fot:planks"}
+  },
+  "pattern": [
+    "WWW",
+    "___"
+  ],
+  "result": {"item":"quad-lolmbdv:jungle_cyan_bed"}
+}
