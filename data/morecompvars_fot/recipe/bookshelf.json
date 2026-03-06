@@ -2,28 +2,20 @@
   "fabric:load_conditions": [
     {
       "condition": "fabric:all_mods_loaded",
-      "values": [
-        "lolmbv"
-      ]
+      "values": ["lolmbv"]
     }
   ],
-  "neoforge:conditions":[{"type":"neoforge:mod_loaded","modid":"lolmbv"}],
+  "neoforge:conditions": [{"type":"neoforge:mod_loaded","modid":"lolmbv"}],
   "type": "minecraft:crafting_shaped",
   "group": "bookshelf",
   "key": {
-    "b": {
-      "item": "minecraft:book"
-    },
-    "#": {
-      "tag": "morecompvars_fot:planks"
-    }
+    "b": {"item":"minecraft:book"},
+    "#": {"tag":"morecompvars_fot:planks"}
   },
   "pattern": [
     "###",
     "bbb",
     "###"
   ],
-  "result": {
-    "id": "lolmbv:jungle_bookshelf"
-  }
+  "result": {"id":"lolmbv:jungle_bookshelf"}
 }

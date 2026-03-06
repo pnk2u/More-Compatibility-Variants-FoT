@@ -2,28 +2,22 @@
   "fabric:load_conditions": [
     {
       "condition": "fabric:all_mods_loaded",
-      "values": [
-        "lolmlv"
-      ]
+      "values": ["lolmlv"]
     }
   ],
-  "neoforge:conditions":[{"type":"neoforge:mod_loaded","modid":"lolmlv"}],
+  "neoforge:conditions": [{"type":"neoforge:mod_loaded","modid":"lolmlv"}],
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "group": "lectern",
   "key": {
-    "#": {
-      "tag": "morecompvars_fot:slabs"
-    },
-     "B": {
-       "tag": "morecompvars_fot:bookshelves"
-     }
-        },
-   "pattern":  [
-  "###",
-  " B ",
-  " # "
- ],
+    "#": {"tag":"morecompvars_fot:slabs"},
+    "B": {"tag":"morecompvars_fot:bookshelves"}
+  },
+  "pattern": [
+    "###",
+    " B ",
+    " # "
+  ],
   "result": {
     "count": 1,
     "id": "lolmlv:jungle_lectern"
