@@ -9,7 +9,7 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "group": "composter",
-  "key": {"#":{"tag":"morecompvars_fot:slabs"}},
+  "key": {"#":"#morecompvars_fot:slabs"},
   "pattern": [
     "# #",
     "# #",

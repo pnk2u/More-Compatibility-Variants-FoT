@@ -11,6 +11,6 @@
     "##",
     "##"
   ],
-  "key": {"#":{"tag":"morecompvars_fot:planks"}},
+  "key": {"#":"#morecompvars_fot:planks"},
   "result": {"id":"lolmct:jungle_crafting_table"}
 }

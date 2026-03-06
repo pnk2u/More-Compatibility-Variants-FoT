@@ -22,9 +22,9 @@
   "category": "misc",
   "group": "campfires",
   "key": {
-    "C": {"tag":"minecraft:coals"},
-    "L": {"tag":"morecompvars_fot:logs"},
-    "S": {"item":"minecraft:stick"}
+    "C": "#minecraft:coals",
+    "L": "#morecompvars_fot:logs",
+    "S": "minecraft:stick"
   },
   "pattern": [
     " S ",

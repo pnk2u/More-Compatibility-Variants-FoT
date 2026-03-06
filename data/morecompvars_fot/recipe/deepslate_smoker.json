@@ -9,8 +9,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {"tag":"morecompvars_fot:logs"},
-    "X": {"tag":"morecompvars_fot:furnaces"}
+    "#": "#morecompvars_fot:logs",
+    "X": "#morecompvars_fot:furnaces"
   },
   "pattern": [
     " # ",

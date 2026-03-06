@@ -9,9 +9,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {"tag":"morecompvars_fot:logs"},
-    "X": {"item":"minecraft:furnace"},
-    "D": {"item":"minecraft:deepslate"}
+    "#": "#morecompvars_fot:logs",
+    "X": "minecraft:furnace",
+    "D": "minecraft:deepslate"
   },
   "pattern": [
     "D#D",

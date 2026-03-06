@@ -10,8 +10,8 @@
   "category": "misc",
   "group": "wooden_sign",
   "key": {
-    "#": {"item":"fishofthieves:coconut_planks"},
-    "X": {"tag":"mstv-base:sticks"}
+    "#": "fishofthieves:coconut_planks",
+    "X": "#mstv-base:sticks"
   },
   "pattern": [
     "###",

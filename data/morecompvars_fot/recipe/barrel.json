@@ -14,8 +14,8 @@
     "#-#"
   ],
   "key": {
-    "#": {"tag":"morecompvars_fot:planks"},
-    "-": {"tag":"morecompvars_fot:slabs"}
+    "#": "#morecompvars_fot:planks",
+    "-": "#morecompvars_fot:slabs"
   },
   "result": {
     "count": 1,

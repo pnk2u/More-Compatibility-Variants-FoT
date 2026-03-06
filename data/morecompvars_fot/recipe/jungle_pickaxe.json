@@ -13,8 +13,8 @@
   "category": "equipment",
   "group": "jungle_pickaxes",
   "key": {
-    "#": {"tag":"mstv-base:sticks"},
-    "X": {"tag":"morecompvars_fot:planks"}
+    "#": "#mstv-base:sticks",
+    "X": "#morecompvars_fot:planks"
   },
   "pattern": [
     "XXX",

@@ -10,8 +10,8 @@
   "category": "redstone",
   "group": "wooden_fence_gate",
   "key": {
-    "#": {"tag":"mstv-base:sticks"},
-    "W": {"item":"fishofthieves:coconut_planks"}
+    "#": "#mstv-base:sticks",
+    "W": "fishofthieves:coconut_planks"
   },
   "pattern": [
     "#W#",

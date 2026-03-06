@@ -10,8 +10,8 @@
   "category": "misc",
   "group": "lectern",
   "key": {
-    "#": {"tag":"morecompvars_fot:slabs"},
-    "B": {"tag":"morecompvars_fot:bookshelves"}
+    "#": "#morecompvars_fot:slabs",
+    "B": "#morecompvars_fot:bookshelves"
   },
   "pattern": [
     "###",

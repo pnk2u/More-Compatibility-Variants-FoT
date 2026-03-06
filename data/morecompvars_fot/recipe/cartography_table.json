@@ -9,8 +9,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {"tag":"morecompvars_fot:planks"},
-    "@": {"item":"minecraft:paper"}
+    "#": "#morecompvars_fot:planks",
+    "@": "minecraft:paper"
   },
   "pattern": [
     "@@",

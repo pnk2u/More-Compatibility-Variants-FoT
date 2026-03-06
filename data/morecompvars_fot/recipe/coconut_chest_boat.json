@@ -10,8 +10,8 @@
   "category": "misc",
   "group": "chest_boat",
   "ingredients": [
-    {"tag":"morecompvars_fot:chests"},
-    {"item":"fishofthieves:coconut_boat"}
+    "#morecompvars_fot:chests",
+    "fishofthieves:coconut_boat"
   ],
   "result": {
     "count": 1,

@@ -9,9 +9,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {"tag":"morecompvars_fot:logs"},
-    "X": {"item":"minecraft:furnace"},
-    "B": {"item":"minecraft:blackstone"}
+    "#": "#morecompvars_fot:logs",
+    "X": "minecraft:furnace",
+    "B": "minecraft:blackstone"
   },
   "pattern": [
     "B#B",

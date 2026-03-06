@@ -9,8 +9,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "P": {"tag":"morecompvars_fot:planks"},
-    "H": {"item":"minecraft:honeycomb"}
+    "P": "#morecompvars_fot:planks",
+    "H": "minecraft:honeycomb"
   },
   "pattern": [
     "PPP",

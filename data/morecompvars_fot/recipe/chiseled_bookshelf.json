@@ -10,8 +10,8 @@
   "category": "misc",
   "group": "chiseled_bookshelves",
   "key": {
-    "#": {"tag":"morecompvars_fot:planks"},
-    "-": {"tag":"morecompvars_fot:slabs"}
+    "#": "#morecompvars_fot:planks",
+    "-": "#morecompvars_fot:slabs"
   },
   "pattern": [
     "###",
