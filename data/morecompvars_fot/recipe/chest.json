@@ -2,12 +2,10 @@
   "fabric:load_conditions": [
     {
       "condition": "fabric:all_mods_loaded",
-      "values": [
-        "lolmcv"
-      ]
+      "values": ["lolmcv"]
     }
   ],
-  "neoforge:conditions":[{"type":"neoforge:mod_loaded","modid":"lolmcv"}],
+  "neoforge:conditions": [{"type":"neoforge:mod_loaded","modid":"lolmcv"}],
   "type": "minecraft:crafting_shaped",
   "group": "chest",
   "pattern": [
@@ -15,11 +13,7 @@
     "# #",
     "###"
   ],
-  "key": {
-    "#": {
-      "tag": "morecompvars_fot:planks"
-    }
-  },
+  "key": {"#":{"tag":"morecompvars_fot:planks"}},
   "result": {
     "id": "lolmcv:jungle_chest",
     "count": 1

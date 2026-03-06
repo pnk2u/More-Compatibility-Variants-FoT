@@ -2,24 +2,16 @@
   "fabric:load_conditions": [
     {
       "condition": "fabric:all_mods_loaded",
-      "values": [
-        "quad-lolmsmv"
-      ]
+      "values": ["quad-lolmsmv"]
     }
   ],
-  "neoforge:conditions":[{"type":"neoforge:mod_loaded","modid":"quad_lolmsmv"}],
+  "neoforge:conditions": [{"type":"neoforge:mod_loaded","modid":"quad_lolmsmv"}],
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "morecompvars_fot:logs"
-    },
-    "X": {
-      "item": "minecraft:furnace"
-    },
-    "D": {
-      "item": "minecraft:deepslate"
-    }
+    "#": {"tag":"morecompvars_fot:logs"},
+    "X": {"item":"minecraft:furnace"},
+    "D": {"item":"minecraft:deepslate"}
   },
   "pattern": [
     "D#D",
