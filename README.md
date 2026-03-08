@@ -1,5 +1,5 @@
-<a name="morecompvars_fot"></a>
-# <img height='48' align=right src="./pack.png"> <p align="center">&emsp;&emsp;&emsp; More Compatibility Variants (Fish of Thieves) <sub><a title="More Compatibility Variants (Fish of Thieves) on Modrinth" href="https://www.modrinth.com/mod/morecompvars_fot"><img width="40" src="https://img.shields.io/badge/-%20-%230f91?style=flat&logo=modrinth"></a></sub></p>
+<a name="more<a name="more-compatibility-variants-fot"></a>
+# <img height='48' align=right src="./pack.png"> <p align="center">&emsp;&emsp;&emsp; More Compatibility Variants (Fish of Thieves) <sub><a title="More Compatibility Variants (Fish of Thieves) on Modrinth" href="https://www.modrinth.com/mod/more-compatibility-variants-fot"><img width="40" src="https://img.shields.io/badge/-%20-%230f91?style=flat&logo=modrinth"></a></sub></p>
 
 <a name="compatibility"></a>
 ### <img height="24" align="left" src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/shared/pres/icon/puzzle.svg"> Compatibility
@@ -9,8 +9,8 @@
     <tr>
       <td><strong>Minecraft</strong></td>
       <td>
-        <a href="https://modrinth.com/mod/morecompvars_fot/versions?g=1.20.1"><code>1.20.1</code></a><br>
-        <a href="https://modrinth.com/mod/morecompvars_fot/versions?g=1.21&g=1.21.1"><code>1.21(.1)</code></a>, <a href="https://modrinth.com/mod/morecompvars_fot/versions?g=1.21.4&g=1.21.5&g=1.21.6&g=1.21.7&g=1.21.8&g=1.21.9&g=1.21.10?g=1.21.11"><code>1.21.4</code>~<code>1.21.11</code></a>
+        <a href="https://modrinth.com/mod/more-compatibility-variants-fot/versions?g=1.20.1"><code>1.20.1</code></a><br>
+        <a href="https://modrinth.com/mod/more-compatibility-variants-fot/versions?g=1.21&g=1.21.1"><code>1.21(.1)</code></a>, <a href="https://modrinth.com/mod/more-compatibility-variants-fot/versions?g=1.21.4&g=1.21.5&g=1.21.6&g=1.21.7&g=1.21.8&g=1.21.9&g=1.21.10?g=1.21.11"><code>1.21.4</code>~<code>1.21.11</code></a>
       </td>
     </tr>
   </thead>
