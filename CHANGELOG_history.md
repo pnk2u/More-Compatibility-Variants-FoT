@@ -1,3 +1,16 @@
+<a name="1.0.0"></a>
+# 1.0.0:
+- Initial release
+
+
+  <h2><sub><sub><sup><ins>Download 1.0.0 + 1.21.4(-11)</ins>:</sup>&#x200A;
+  <a title="Download (Modrinth):&#10;More Compatibility Variants (FoT) 1.0.0 + 1.21.4(-11)" href="https://www.modrinth.com/mod/GeJH6bAf/version/xz9dZTJN">
+  <img width=26 src="https://img.shields.io/badge/-%20-%23032a?style=flat&logo=modrinth"></a>
+  <sup><img width=7 height=10 src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/shared/pres/icon/separator_v.svg"></sup>
+  <a title="Download (Curseforge):&#10;1.0.0 + 1.21.4(-11) - More Compatibility Variants (FoT)" href="https://www.curseforge.com/minecraft/texture-packs/more-compatibility-variants-fish-of-thieves/files/7729658">
+  <img width=26 src="https://img.shields.io/badge/--%23302a?style=flat&logo=curseforge"></a>
+  </sub></sub></h2>
+
 <a name="0.9.4"></a>
 ### 0.9.4:
 - Hopefully final pre-release
