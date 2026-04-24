@@ -1,4 +1,4 @@
-<a name="more<a name="more-compatibility-variants-fot"></a>
+<a name="more-compatibility-variants-fot"></a>
 # <img height='48' align=right src="./pack.png"> <p align="center">&emsp;&emsp;&emsp; More Compatibility Variants (Fish of Thieves) <sub><a title="More Compatibility Variants (Fish of Thieves) on Modrinth" href="https://www.modrinth.com/mod/more-compatibility-variants-fot"><img width="40" src="https://img.shields.io/badge/-%20-%230f91?style=flat&logo=modrinth"></a></sub></p>
 
 <a name="compatibility"></a>
